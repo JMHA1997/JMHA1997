@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JMHA1997
 - 👀 I’m interested in making my own applications.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on nothing right now.
+- 💞️ I’m looking to collaborate on python and R projects.
 - 📫 How to reach me morganalsbrookinc@gmail.com
 
 <!---
